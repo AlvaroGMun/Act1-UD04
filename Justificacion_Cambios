@@ -1,0 +1,9 @@
+Cambios realizados:
+  1. Nombre de variables.
+    - Se han cambiado el nombre de las variables para que sean más descriptivas.
+  2. Eliminación de llaves innecesarias.
+    - Se eliminan las llaves innecesarias para que el código se puede leer más facil.
+  3. Creación de métodos.
+    - Se ha seccionado partes del código para crear métodos y que así el método main este más limpio y con los métodos nos permita hacer varias llamadas sin tener código duplicado.
+  4. Agregación de comentarios.
+    - Se han implementado varios comentarios para faciltar la comprensión del código a cualquier usuario.
